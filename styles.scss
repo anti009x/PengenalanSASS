@@ -1,0 +1,14 @@
+
+    $myColor: red;
+
+header {
+    background-color: $myColor;
+
+    h1{
+        font-size: 40px;
+    }
+    p{
+        color: $myColor;
+    }
+}
+
